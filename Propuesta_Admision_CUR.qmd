@@ -42,6 +42,8 @@ Mejorar la calidad educativa mediante la selección rigurosa de estudiantes que 
 4. **Entrevista:** Valoración formativa por docentes.
 5. **Asignación de curso de refuerzo (si aplica):** Según programa y resultados disciplinares.  
    Esta etapa aplica exclusivamente a los estudiantes que no superen el 60% en una o más áreas clave, determinadas según el programa de ingeniería al que se postulen. El refuerzo no es general, sino focalizado: si un aspirante a Ingeniería Informática reprueba Biología o Química, pero supera Matemáticas y Física, no se le asignará refuerzo, dado que esas no son áreas prioritarias para su programa. Este modelo permite una ruta más eficiente y pertinente de acompañamiento académico inicial.
+   
+   ![](Info_admis_Ing_CUR.png){width=100%}
 
 # Evaluación de Entrada en Competencias
 
