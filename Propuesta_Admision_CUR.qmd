@@ -1,0 +1,143 @@
+
+---
+title: "Propuesta para la Selección y Admisión de Estudiantes"
+author: "Facultad de Ingenierías - Ciencias Básicas"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: false
+---
+
+![](image-adm.png){width=100%}
+
+
+# Introducción
+
+Esta propuesta establece una ruta estructurada para optimizar la admisión de estudiantes en los programas adscritos a la Facultad de Ingenierías, a través de un proceso basado en competencias académicas y criterios objetivos. Su intención es no solo seleccionar a quienes presentan un perfil adecuado para cada programa, sino también brindar apoyo a quienes requieren refuerzo académico mediante cursos virtuales personalizados. La iniciativa busca alinear la admisión con los retos formativos actuales, fortalecer el ingreso y permanencia estudiantil, y promover la equidad en el acceso a la educación superior. Se espera que, al seguir este proceso, se logre una mejora significativa en los indicadores de rendimiento académico, permanencia y proyección institucional.
+
+# Objetivo Específico
+
+Garantizar una selección transparente y efectiva de estudiantes para los programas adscritos a la facultad, estableciendo criterios claros, objetivos y alineados con el perfil de ingreso requerido.
+
+# Objetivo Estratégico
+
+Mejorar la calidad educativa mediante la selección rigurosa de estudiantes que cumplan con los perfiles académicos y aptitudes necesarias para el éxito académico en los programas ofertados.
+
+# Instrumento de Selección
+
+| **Criterio** | **Peso (%)** | **Descripción / Indicador** |
+|-------------|--------------|------------------------------|
+| Resultado académico general | 30% | Promedio general de notas en educación secundaria o puntaje en pruebas Saber 11 |
+| Resultados en pruebas específicas de Ciencias Básicas | 30% | Examen diagnóstico por competencias |
+| Entrevista personal o grupal | 25% | Valoración de habilidades comunicativas, motivación y aptitudes |
+| Evaluación psicotécnica | 15% | Prueba de perfil cognitivo y emocional |
+
+# Proceso de Selección
+
+1. **Recepción y validación documental:** Revisión de requisitos formales (Saber 11, certificados).
+2. **Aplicación de prueba diagnóstica:** En línea o presencial según logística institucional.
+3. **Evaluación psicotécnica:** Diagnóstico vocacional y aptitudinal.
+4. **Entrevista:** Valoración formativa por docentes.
+5. **Asignación de curso de refuerzo (si aplica):** Según programa y resultados disciplinares.  
+   Esta etapa aplica exclusivamente a los estudiantes que no superen el 60% en una o más áreas clave, determinadas según el programa de ingeniería al que se postulen. El refuerzo no es general, sino focalizado: si un aspirante a Ingeniería Informática reprueba Biología o Química, pero supera Matemáticas y Física, no se le asignará refuerzo, dado que esas no son áreas prioritarias para su programa. Este modelo permite una ruta más eficiente y pertinente de acompañamiento académico inicial.
+
+# Evaluación de Entrada en Competencias
+
+## Estructura General del Instrumento
+
+- Total preguntas: 100
+- Tipo: Selección múltiple con única respuesta
+- Duración sugerida: 2.5 a 3 horas
+
+## Distribución por Disciplinas
+
+| Área                | Preguntas | Observaciones                                                 |
+|---------------------|-----------|----------------------------------------------------------------|
+| Matemáticas Básicas | 40        | Evaluación de competencias comunes a todos los programas      |
+| Biología General     | 20        | Prioritaria en Ambiental y Biomédica                          |
+| Física Mecánica      | 20        | Fundamental en todos excepto menor peso en Ambiental          |
+| Química General      | 20        | Enfasis en Ambiental y Biomédica                              |
+
+## Decisión de Curso de Refuerzo según Programa
+
+| Programa     | Disciplinas obligatorias si reprueba (<60%)                           |
+|--------------|----------------------------------------------------------------------|
+| Informática  | Matemáticas y Física                                                 |
+| Industrial   | Matemáticas y Física                                                 |
+| Ambiental    | Biología, Química y Física                                           |
+| Biomédica    | Todas: Matemáticas, Física, Química y Biología                      |
+
+*Nota:* Un estudiante de Informática que reprueba Biología y Química, pero aprueba Matemáticas y Física, **no está obligado** a tomar curso de refuerzo.
+
+# Bloques de Competencia Evaluados
+
+## Matemáticas Básicas - 40 preguntas
+
+| Bloque | Preguntas | Descripción |
+|--------|-----------|-------------|
+| Operaciones numéricas | 8 | Jerarquía, porcentajes, fracciones |
+| Álgebra básica | 12 | Ecuaciones, factorización, potencias |
+| Geometría y trigonometría | 8 | Áreas, perímetros, razones trigonométricas |
+| Razonamiento cuantitativo | 8 | Series, patrones, problemas con tablas y gráficos |
+
+## Biología General - 20 preguntas
+
+| Bloque | Preguntas | Descripción |
+|--------|-----------|-------------|
+| Estructura y función celular | 5 | Componentes de la célula, funciones, diferenciación celular |
+| Genética y herencia | 5 | Cromosomas, ADN, principios de Mendel, mutaciones |
+| Procesos biológicos | 5 | Fotosíntesis, respiración, reproducción, metabolismo |
+| Ciencia, tecnología y salud | 5 | Aplicaciones biotecnológicas, impacto ambiental, relaciones con la salud |
+
+## Física Mecánica - 20 preguntas
+
+| Bloque | Preguntas | Descripción |
+|--------|-----------|-------------|
+| Cinemática | 5 | Movimiento rectilíneo, velocidad, aceleración, gráficas |
+| Dinámica | 5 | Leyes de Newton, fuerza, masa, interacción |
+| Trabajo, energía y potencia | 5 | Concepto de trabajo, energía cinética y potencial, máquinas simples |
+| Interpretación de fenómenos | 5 | Análisis cualitativo y cuantitativo de situaciones de la vida cotidiana |
+
+## Química General - 20 preguntas
+
+| Bloque | Preguntas | Descripción |
+|--------|-----------|-------------|
+| Estructura atómica y tabla periódica | 5 | Propiedades de los elementos, estructura del átomo, organización periódica |
+| Enlace químico y compuestos | 5 | Tipos de enlace, nomenclatura básica, compuestos iónicos y covalentes |
+| Cambios químicos y estequiometría | 5 | Reacciones químicas, balanceo, cálculos estequiométricos |
+| Química en la vida diaria | 5 | Aplicaciones de la química en contextos ambientales, alimenticios o industriales |
+
+# Curso de Refuerzo en Plataforma Moodle
+
+Cada curso está diseñado como una ruta de aprendizaje corta, modular y evaluativa. Incluye:
+- Material interactivo (videos, simulaciones, infografías).
+- Actividades prácticas y retos por tema.
+- Foros de apoyo y sesiones sincrónicas optativas.
+- Evaluación de entrada y salida.
+
+Los cursos serán:
+- Obligatorios para quienes no superen el 60% en las áreas clave.
+- Opcionales como nivelación para los admitidos directos.
+
+# Estrategia de Captación de Estudiantes
+
+- **Convocatoria abierta** a estudiantes de grado 11 interesados en la CUR.
+- **Aplicación gratuita** del test diagnóstico en línea.
+- **Acceso sin costo** a los cursos de refuerzo como incentivo académico.
+- **Difusión digital** mediante redes, webinars, embajadores estudiantiles y ferias escolares.
+
+# Resultados Esperados
+
+- Incremento en la calidad académica de los admitidos.
+- Mayor retención en el primer año de formación.
+- Posicionamiento de la CUR como institución innovadora y accesible.
+- Aumento de matrícula y atracción de estudiantes con vocación STEM.
+
+# Esbozo de Cursos Libres
+
+- **Matemáticas Básicas Aplicadas** (para estudiantes de 11° y aspirantes a ingeniería).
+- **Fundamentos de Ciencias Naturales** (Biología, Física y Química contextualizadas).
+- **Pensamiento Lógico-Cuántico** (introducción lúdica al razonamiento científico).
+- **Ingeniería para Curiosos** (ciclo de talleres introductorios según carrera).
