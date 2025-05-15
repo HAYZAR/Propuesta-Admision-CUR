@@ -45,6 +45,46 @@ Mejorar la calidad educativa mediante la selección rigurosa de estudiantes que 
    
    ![](Info_admis_Ing_CUR.png){width=100%}
 
+::: {.callout-tip title="MOODLE- Estrategías- Resultados"}
+
+# Curso de Refuerzo en Plataforma Moodle
+
+Cada curso está diseñado como una ruta de aprendizaje corta, modular y evaluativa. Incluye:
+- Material interactivo (videos, simulaciones, infografías).
+- Actividades prácticas y retos por tema.
+- Foros de apoyo y sesiones sincrónicas optativas.
+- Evaluación de entrada y salida.
+
+Los cursos serán:
+- Obligatorios para quienes no superen el 60% en las áreas clave.
+- Opcionales como nivelación para los admitidos directos.
+
+# Estrategia de Captación de Estudiantes
+
+- **Convocatoria abierta** a estudiantes de grado 11 interesados en la CUR.
+- **Aplicación gratuita** del test diagnóstico en línea.
+- **Acceso sin costo** a los cursos de refuerzo como incentivo académico.
+- **Difusión digital** mediante redes, webinars, embajadores estudiantiles y ferias escolares.
+
+# Resultados Esperados
+
+- Incremento en la calidad académica de los admitidos.
+- Mayor retención en el primer año de formación.
+- Posicionamiento de la CUR como institución innovadora y accesible.
+- Aumento de matrícula y atracción de estudiantes con vocación STEM.
+
+# Esbozo de Cursos Libres
+
+- **Matemáticas Básicas Aplicadas** (para estudiantes de 11° y aspirantes a ingeniería).
+- **Fundamentos de Ciencias Naturales** (Biología, Física y Química contextualizadas).
+- **Pensamiento Lógico-Cuántico** (introducción lúdica al razonamiento científico).
+- **Ingeniería para Curiosos** (ciclo de talleres introductorios según carrera).
+
+:::
+
+
+::: {.callout-note title="Evaluación de Entrada en Competencias"}
+
 # Evaluación de Entrada en Competencias
 
 ## Estructura General del Instrumento
@@ -111,35 +151,5 @@ Mejorar la calidad educativa mediante la selección rigurosa de estudiantes que 
 | Cambios químicos y estequiometría | 5 | Reacciones químicas, balanceo, cálculos estequiométricos |
 | Química en la vida diaria | 5 | Aplicaciones de la química en contextos ambientales, alimenticios o industriales |
 
-# Curso de Refuerzo en Plataforma Moodle
+:::
 
-Cada curso está diseñado como una ruta de aprendizaje corta, modular y evaluativa. Incluye:
-- Material interactivo (videos, simulaciones, infografías).
-- Actividades prácticas y retos por tema.
-- Foros de apoyo y sesiones sincrónicas optativas.
-- Evaluación de entrada y salida.
-
-Los cursos serán:
-- Obligatorios para quienes no superen el 60% en las áreas clave.
-- Opcionales como nivelación para los admitidos directos.
-
-# Estrategia de Captación de Estudiantes
-
-- **Convocatoria abierta** a estudiantes de grado 11 interesados en la CUR.
-- **Aplicación gratuita** del test diagnóstico en línea.
-- **Acceso sin costo** a los cursos de refuerzo como incentivo académico.
-- **Difusión digital** mediante redes, webinars, embajadores estudiantiles y ferias escolares.
-
-# Resultados Esperados
-
-- Incremento en la calidad académica de los admitidos.
-- Mayor retención en el primer año de formación.
-- Posicionamiento de la CUR como institución innovadora y accesible.
-- Aumento de matrícula y atracción de estudiantes con vocación STEM.
-
-# Esbozo de Cursos Libres
-
-- **Matemáticas Básicas Aplicadas** (para estudiantes de 11° y aspirantes a ingeniería).
-- **Fundamentos de Ciencias Naturales** (Biología, Física y Química contextualizadas).
-- **Pensamiento Lógico-Cuántico** (introducción lúdica al razonamiento científico).
-- **Ingeniería para Curiosos** (ciclo de talleres introductorios según carrera).
