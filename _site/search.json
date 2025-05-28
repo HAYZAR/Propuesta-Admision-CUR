@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "Propuesta_Admision_CUR.html#estructura-general-del-instrumento",
+    "href": "Propuesta_Admision_CUR.html#estructura-general-del-instrumento",
+    "title": "Propuesta para la Selección y Admisión de Estudiantes",
+    "section": "Estructura General del Instrumento",
+    "text": "Estructura General del Instrumento\n\nTotal preguntas: 100\nTipo: Selección múltiple con única respuesta\nDuración sugerida: 2.5 a 3 horas"
+  },
+  {
+    "objectID": "Propuesta_Admision_CUR.html#distribución-por-disciplinas",
+    "href": "Propuesta_Admision_CUR.html#distribución-por-disciplinas",
+    "title": "Propuesta para la Selección y Admisión de Estudiantes",
+    "section": "Distribución por Disciplinas",
+    "text": "Distribución por Disciplinas\n\n\n\n\n\n\n\n\nÁrea\nPreguntas\nObservaciones\n\n\n\n\nMatemáticas Básicas\n40\nEvaluación de competencias comunes a todos los programas\n\n\nBiología General\n20\nPrioritaria en Ambiental y Biomédica\n\n\nFísica Mecánica\n20\nFundamental en todos excepto menor peso en Ambiental\n\n\nQuímica General\n20\nEnfasis en Ambiental y Biomédica"
+  },
+  {
+    "objectID": "Propuesta_Admision_CUR.html#decisión-de-curso-de-refuerzo-según-programa",
+    "href": "Propuesta_Admision_CUR.html#decisión-de-curso-de-refuerzo-según-programa",
+    "title": "Propuesta para la Selección y Admisión de Estudiantes",
+    "section": "Decisión de Curso de Refuerzo según Programa",
+    "text": "Decisión de Curso de Refuerzo según Programa\n\n\n\n\n\n\n\nPrograma\nDisciplinas obligatorias si reprueba (&lt;60%)\n\n\n\n\nInformática\nMatemáticas y Física\n\n\nIndustrial\nMatemáticas y Física\n\n\nAmbiental\nBiología, Química y Física\n\n\nBiomédica\nTodas: Matemáticas, Física, Química y Biología\n\n\n\nNota: Un estudiante de Informática que reprueba Biología y Química, pero aprueba Matemáticas y Física, no está obligado a tomar curso de refuerzo."
+  },
+  {
+    "objectID": "Propuesta_Admision_CUR.html#matemáticas-básicas---40-preguntas",
+    "href": "Propuesta_Admision_CUR.html#matemáticas-básicas---40-preguntas",
+    "title": "Propuesta para la Selección y Admisión de Estudiantes",
+    "section": "Matemáticas Básicas - 40 preguntas",
+    "text": "Matemáticas Básicas - 40 preguntas\n\n\n\n\n\n\n\n\nBloque\nPreguntas\nDescripción\n\n\n\n\nOperaciones numéricas\n8\nJerarquía, porcentajes, fracciones\n\n\nÁlgebra básica\n12\nEcuaciones, factorización, potencias\n\n\nGeometría y trigonometría\n8\nÁreas, perímetros, razones trigonométricas\n\n\nRazonamiento cuantitativo\n8\nSeries, patrones, problemas con tablas y gráficos"
+  },
+  {
+    "objectID": "Propuesta_Admision_CUR.html#biología-general---20-preguntas",
+    "href": "Propuesta_Admision_CUR.html#biología-general---20-preguntas",
+    "title": "Propuesta para la Selección y Admisión de Estudiantes",
+    "section": "Biología General - 20 preguntas",
+    "text": "Biología General - 20 preguntas\n\n\n\n\n\n\n\n\nBloque\nPreguntas\nDescripción\n\n\n\n\nEstructura y función celular\n5\nComponentes de la célula, funciones, diferenciación celular\n\n\nGenética y herencia\n5\nCromosomas, ADN, principios de Mendel, mutaciones\n\n\nProcesos biológicos\n5\nFotosíntesis, respiración, reproducción, metabolismo\n\n\nCiencia, tecnología y salud\n5\nAplicaciones biotecnológicas, impacto ambiental, relaciones con la salud"
+  },
+  {
+    "objectID": "Propuesta_Admision_CUR.html#física-mecánica---20-preguntas",
+    "href": "Propuesta_Admision_CUR.html#física-mecánica---20-preguntas",
+    "title": "Propuesta para la Selección y Admisión de Estudiantes",
+    "section": "Física Mecánica - 20 preguntas",
+    "text": "Física Mecánica - 20 preguntas\n\n\n\n\n\n\n\n\nBloque\nPreguntas\nDescripción\n\n\n\n\nCinemática\n5\nMovimiento rectilíneo, velocidad, aceleración, gráficas\n\n\nDinámica\n5\nLeyes de Newton, fuerza, masa, interacción\n\n\nTrabajo, energía y potencia\n5\nConcepto de trabajo, energía cinética y potencial, máquinas simples\n\n\nInterpretación de fenómenos\n5\nAnálisis cualitativo y cuantitativo de situaciones de la vida cotidiana"
+  },
+  {
+    "objectID": "Propuesta_Admision_CUR.html#química-general---20-preguntas",
+    "href": "Propuesta_Admision_CUR.html#química-general---20-preguntas",
+    "title": "Propuesta para la Selección y Admisión de Estudiantes",
+    "section": "Química General - 20 preguntas",
+    "text": "Química General - 20 preguntas\n\n\n\n\n\n\n\n\nBloque\nPreguntas\nDescripción\n\n\n\n\nEstructura atómica y tabla periódica\n5\nPropiedades de los elementos, estructura del átomo, organización periódica\n\n\nEnlace químico y compuestos\n5\nTipos de enlace, nomenclatura básica, compuestos iónicos y covalentes\n\n\nCambios químicos y estequiometría\n5\nReacciones químicas, balanceo, cálculos estequiométricos\n\n\nQuímica en la vida diaria\n5\nAplicaciones de la química en contextos ambientales, alimenticios o industriales"
+  }
+]
